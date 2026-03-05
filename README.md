@@ -1,2 +1,6 @@
-# ethereum-hub-mauritius
-Community-driven initiative to establish an Ethereum hub in Mauritius focused on education, developer onboarding, and real-world blockchain use cases.
+ethereum-hub-mauritius
+│
+├── README.md
+├── ROADMAP.md
+├── EVENT_PLAN.md
+└── PARTNERSHIPS.md
